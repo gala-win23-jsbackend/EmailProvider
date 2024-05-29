@@ -39,4 +39,4 @@ jobs:
           app-name: 'emailprovider-silicon-gala'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6020772939A4C61964D823CC5D0AB7A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E466D7E0F5F4AC1AF58ECAF6C8794F9 }}
